@@ -16,7 +16,3 @@
 @import url('./badges.css');
 @import url('./back-link.css');
 @import url('./footer.css');
-
-@import flatpickr from 'flatpickr';
-
-@import 'flatpickr/dist/flatpickr.min.css';
