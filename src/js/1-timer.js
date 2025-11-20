@@ -52,6 +52,7 @@ startBtn.addEventListener('click', () => {
 
     if (diff <= 0) {
       clearInterval(intervalId);
+      myInput.disabled = false;
       return;
     }
 
